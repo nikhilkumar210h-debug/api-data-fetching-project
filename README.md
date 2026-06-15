@@ -90,7 +90,7 @@ git clone https://github.com/nikhilkumar210h-debug/api-data-fetching-project.git
 ### Navigate to Project Directory
 
 ```bash
-cd api-data-fetching-project
+cd api-data-fetching-file
 ```
 
 ### Install Required Libraries
@@ -102,7 +102,7 @@ pip install pandas requests and bs4
 ### Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+api-data-fetching-file
 ```
 
 Open:
