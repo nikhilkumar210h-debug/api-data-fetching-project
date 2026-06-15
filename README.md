@@ -33,7 +33,7 @@ It is a beginner-friendly project designed to help learners understand API integ
 ```text
 api-data-fetching-project/
 │
-├── api_data_fetch.ipynb
+├── api-data-fetching-file.ipynb
 ├── Apple_iphone_selling_data.csv
 ├── books_data.csv
 ├── movies_api.csv
@@ -108,7 +108,7 @@ api-data-fetching-file
 Open:
 
 ```text
-api_data_fetch.ipynb
+api-data-fetching-file.ipynb
 ```
 
 and run all cells.
